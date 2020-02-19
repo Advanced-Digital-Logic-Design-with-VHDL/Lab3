@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sat Nov 30 18:18:00 2019
+# Process ID: 13824
+# Current directory: C:/Users/maade/Desktop/ECE 410 LAB/LAB 3/MadeehaReq1_2 _V0/LAB 3/traffic_intersection.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/maade/Desktop/ECE 410 LAB/LAB 3/MadeehaReq1_2 _V0/LAB 3/traffic_intersection.sim/sim_1/behav/xsim/xsim.dir/traffic_intersection_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/maade/Desktop/ECE 410 LAB/LAB 3/MadeehaReq1_2 _V0/LAB 3/traffic_intersection.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/maade/Desktop/ECE 410 LAB/LAB 3/MadeehaReq1_2 _V0/LAB 3/traffic_intersection.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/maade/Desktop/ECE -notrace
+invalid command name "%"
+    while executing
+"% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current"
+    (file "C:/Users/maade/Desktop/ECE" line 1)
+INFO: [Common 17-206] Exiting Webtalk at Sat Nov 30 18:18:00 2019...

@@ -1,0 +1,105 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Dec  2 10:05:19 2019
+# Process ID: 8108
+# Current directory: E:/MadeehaReq5_6
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1288 E:\MadeehaReq5_6\traffic_intersection.xpr
+# Log file: E:/MadeehaReq5_6/vivado.log
+# Journal file: E:/MadeehaReq5_6\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/MadeehaReq5_6/traffic_intersection.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/maade/Desktop/ECE 410 LAB/LAB 3/MadeehaReq1_2 _V0/LAB 3' since last save.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'E:/../../clock_divider.vhd', nor could it be found using path 'C:/Users/maade/Desktop/ECE 410 LAB/clock_divider.vhd'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
+ERROR: [Common 17-279] Can't register unknown proc '::tclapp::xilinx::modelsim::usf_create_options'
+ERROR: [Common 17-69] Command failed: invalid command name "tclapp::xilinx::modelsim::register_options"
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+[Mon Dec  2 10:07:36 2019] Launched synth_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/synth_1/runme.log
+launch_runs impl_1 -jobs 4
+[Mon Dec  2 10:08:38 2019] Launched impl_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs impl_1 -jobs 4
+[Mon Dec  2 10:11:37 2019] Launched synth_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/synth_1/runme.log
+[Mon Dec  2 10:11:37 2019] Launched impl_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+[Mon Dec  2 10:16:24 2019] Launched synth_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/synth_1/runme.log
+launch_runs impl_1 -jobs 4
+[Mon Dec  2 10:17:19 2019] Launched impl_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/impl_1/runme.log
+reset_run impl_1
+launch_runs impl_1 -jobs 4
+[Mon Dec  2 10:20:30 2019] Launched impl_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+[Mon Dec  2 10:22:00 2019] Launched synth_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/synth_1/runme.log
+launch_runs impl_1 -jobs 4
+[Mon Dec  2 10:22:47 2019] Launched impl_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs impl_1 -jobs 4
+[Mon Dec  2 10:24:37 2019] Launched synth_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/synth_1/runme.log
+[Mon Dec  2 10:24:37 2019] Launched impl_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs impl_1 -jobs 4
+[Mon Dec  2 10:27:20 2019] Launched synth_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/synth_1/runme.log
+[Mon Dec  2 10:27:20 2019] Launched impl_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs impl_1 -jobs 4
+[Mon Dec  2 10:30:48 2019] Launched synth_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/synth_1/runme.log
+[Mon Dec  2 10:30:48 2019] Launched impl_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+[Mon Dec  2 10:34:55 2019] Launched synth_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/synth_1/runme.log
+launch_runs impl_1 -jobs 4
+[Mon Dec  2 10:36:26 2019] Launched impl_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs impl_1 -jobs 4
+[Mon Dec  2 10:38:19 2019] Launched synth_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/synth_1/runme.log
+[Mon Dec  2 10:38:19 2019] Launched impl_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs impl_1 -jobs 4
+[Mon Dec  2 10:41:08 2019] Launched synth_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/synth_1/runme.log
+[Mon Dec  2 10:41:09 2019] Launched impl_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs impl_1 -jobs 4
+[Mon Dec  2 10:43:35 2019] Launched synth_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/synth_1/runme.log
+[Mon Dec  2 10:43:35 2019] Launched impl_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+[Mon Dec  2 10:47:11 2019] Launched synth_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/synth_1/runme.log
+launch_runs impl_1 -jobs 4
+[Mon Dec  2 10:48:29 2019] Launched impl_1...
+Run output will be captured here: E:/MadeehaReq5_6/traffic_intersection.runs/impl_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Dec  2 11:16:21 2019...

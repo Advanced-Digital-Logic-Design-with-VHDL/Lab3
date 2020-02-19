@@ -1,0 +1,80 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Dec  2 19:32:51 2019
+# Process ID: 11704
+# Current directory: C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11568 C:\Users\maade\Desktop\ECE 410 LAB\LAB3\COMPLET\MadeehaReq5_6\traffic_intersection.xpr
+# Log file: C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/vivado.log
+# Journal file: C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/traffic_intersection.xpr}
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+open_wave_config {C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/traffic_intersection_tb_behav.wcfg}
+source traffic_intersection_tb.tcl
+close_sim
+launch_simulation
+open_wave_config {C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/traffic_intersection_tb_behav.wcfg}
+source traffic_intersection_tb.tcl
+close_sim
+launch_simulation
+open_wave_config {C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/traffic_intersection_tb_behav.wcfg}
+source traffic_intersection_tb.tcl
+close_sim
+launch_simulation
+open_wave_config {C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/traffic_intersection_tb_behav.wcfg}
+source traffic_intersection_tb.tcl
+close_sim
+launch_simulation
+open_wave_config {C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/traffic_intersection_tb_behav.wcfg}
+source traffic_intersection_tb.tcl
+current_wave_config {traffic_intersection_tb_behav.wcfg}
+add_wave {{/traffic_intersection_tb/out_7seg}} 
+current_wave_config {traffic_intersection_tb_behav.wcfg}
+add_wave {{/traffic_intersection_tb/KeyPad_Col}} 
+current_wave_config {traffic_intersection_tb_behav.wcfg}
+add_wave {{/traffic_intersection_tb/KeyPad_Row}} 
+run all
+save_wave_config {C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/traffic_intersection_tb_behav.wcfg}
+close_sim
+launch_simulation
+open_wave_config {C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/traffic_intersection_tb_behav.wcfg}
+source traffic_intersection_tb.tcl
+close_sim
+launch_simulation
+launch_simulation
+open_wave_config {C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/traffic_intersection_tb_behav.wcfg}
+source traffic_intersection_tb.tcl
+close_sim
+launch_simulation
+open_wave_config {C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/traffic_intersection_tb_behav.wcfg}
+source traffic_intersection_tb.tcl
+run 20000 ns
+close_sim
+launch_simulation
+open_wave_config {C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/traffic_intersection_tb_behav.wcfg}
+source traffic_intersection_tb.tcl
+close_sim
+launch_simulation
+open_wave_config {C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/traffic_intersection_tb_behav.wcfg}
+source traffic_intersection_tb.tcl
+close_sim
+launch_simulation
+open_wave_config {C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/traffic_intersection_tb_behav.wcfg}
+source traffic_intersection_tb.tcl
+run 20000 ns
+run 20000 ns
+run 20000 ns
+run 20000 ns
+close_sim
+launch_simulation
+open_wave_config {C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/traffic_intersection_tb_behav.wcfg}
+source traffic_intersection_tb.tcl
+run 20000 ns
+remove_forces { {/traffic_intersection_tb/out_7seg} }
+close_sim

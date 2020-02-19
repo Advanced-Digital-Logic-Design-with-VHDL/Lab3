@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Dec  2 14:48:51 2019
+# Process ID: 2764
+# Current directory: E:/MadeehaReq5_6/traffic_intersection.runs/impl_1
+# Command line: vivado.exe -log traffic_intersection.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source traffic_intersection.tcl -notrace
+# Log file: E:/MadeehaReq5_6/traffic_intersection.runs/impl_1/traffic_intersection.vdi
+# Journal file: E:/MadeehaReq5_6/traffic_intersection.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source traffic_intersection.tcl -notrace

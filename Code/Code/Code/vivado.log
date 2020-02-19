@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Thu Dec  5 20:21:00 2019
+# Process ID: 21712
+# Current directory: C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3120 C:\Users\maade\Desktop\ECE 410 LAB\LAB3\COMPLET\MadeehaReq5_6\traffic_intersection.xpr
+# Log file: C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/vivado.log
+# Journal file: C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/maade/Desktop/ECE 410 LAB/LAB3/COMPLET/MadeehaReq5_6/traffic_intersection.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
+open_project: Time (s): cpu = 00:00:30 ; elapsed = 00:00:13 . Memory (MB): peak = 791.723 ; gain = 165.965
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Dec  5 20:43:44 2019...
